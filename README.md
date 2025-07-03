@@ -1,1 +1,0 @@
-# Extraidor-de-Palavras
